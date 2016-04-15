@@ -1,0 +1,1 @@
+Shortest project to test that express middleware looks up for index.html by default if there is no routing at all.
